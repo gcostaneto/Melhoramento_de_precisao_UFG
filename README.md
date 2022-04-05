@@ -1,4 +1,4 @@
-<img align="center" src="/PGMP.png" width="70%" height="70%">
+<img align="center" src="/PGMP.png" width="100%" height="100%">
 
 # Melhoramento de Precisão:
 
