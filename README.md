@@ -3,7 +3,9 @@
 # Melhoramento de Precisão: Automação no campo
 
 Data: 05-04-2022 - Virtual
+
 Autor: Germano Costa-Neto
+
 email: germano.cneto@gmail.com
 
 
